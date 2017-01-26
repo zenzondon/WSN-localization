@@ -1,0 +1,1 @@
+RIM Model极度不规则，研究算法在不规则通信模型下的性能，使用Logarithmic Attenuation Model或者DOI Model即可。
